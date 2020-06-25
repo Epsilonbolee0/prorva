@@ -1,0 +1,526 @@
+<?xml version="1.0"?>
+<resource>
+	<requires file='autosave_tiles.xml'/>
+	<rectmap id="boat" origin="100,110,111" tile_size="32x32">
+	<column>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="archer"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="archer"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="archer"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="archer"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="archer"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+	</column>
+	<column>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="priest"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="priest"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="priest"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="priest"/>
+		</cell>
+	</column>
+	<column>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="warrior"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="warrior"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="warrior"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="warrior"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="warrior"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+	</column>
+	<column>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="carpenter"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="carpenter"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="carpenter"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+	</column>
+	<column>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="trader"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+	</column>
+	<column>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+	</column>
+	<column>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+	</column>
+	<column>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+	</column>
+	<column>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+	</column>
+	<column>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+		<cell tile="platform">
+		<property type="int" name="solidity" value="100"/>
+		<property type="unicode" name="id" value="platform"/>
+		<property type="unicode" name="unit" value="NULL"/>
+		</cell>
+	</column>
+	</rectmap>
+</resource>

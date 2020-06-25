@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<resource>
+<image file="src/blocks/platform.png" id="0"/>
+<image file="src/blocks/void.png" id="1"/>
+<tileset>
+<tile id="platform"><image ref="0"/></tile>
+<tile id="void"><image ref="1"/></tile>
+</tileset>
+</resource>
